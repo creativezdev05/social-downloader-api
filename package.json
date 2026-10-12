@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@mrnima/facebook-downloader": "^1.0.0",
+    "@mrnima/instagram-downloader": "^1.0.0"
+  }
+}
