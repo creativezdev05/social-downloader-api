@@ -1,6 +1,5 @@
 {
-  "dependencies": {
-    "@mrnima/facebook-downloader": "^1.0.0",
-    "@mrnima/instagram-downloader": "^1.0.0"
-  }
+  "name": "social-downloader-api",
+  "version": "1.0.0",
+  "private": true
 }
